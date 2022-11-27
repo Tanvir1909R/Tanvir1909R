@@ -1,3 +1,4 @@
+<img scr="https://i.ibb.co/yPmtncw/banner.png">
 <h1 align="center">Hi 👋, I'm Tanvir</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="center" width="400" alt="coading" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
