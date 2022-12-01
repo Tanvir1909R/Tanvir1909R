@@ -7,6 +7,8 @@
 - 💬 Ask me about **react, javascript**
 - 📫 How to reach me **trcr719@gmail.com**
 - ⚡ Fun fact: I can work straight 12 hours everyday if its about coding
+
+<img alt="gif" src="https://i.ibb.co/hVB5vXt/code.gif">
 <br/>
 
 ## 🏆 GitHub Trophies
