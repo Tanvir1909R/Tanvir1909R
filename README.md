@@ -10,7 +10,7 @@
 <br/>
 <br/>
 
-## 📊 My github state
+## 🏆 GitHub Trophies
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanvir1909r" alt="tanvir1909r" /></a> </p>
 
