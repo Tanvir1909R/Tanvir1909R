@@ -28,9 +28,8 @@
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanvir1909r&show_icons=true&locale=en" alt="tanvir1909r" /></p>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanvir1909r&show_icons=true&locale=en&layout=compact" alt="tanvir1909r" /></p>
 <br/>
-<br/>
 
-## Connect with me:
+## 📱 Connect with me:
 <p align="left">
 <a href="https://twitter.com/@tanvir1909" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@tanvir1909" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tanvir rana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanvir rana" height="30" width="40" /></a>
