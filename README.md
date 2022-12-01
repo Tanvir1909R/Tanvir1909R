@@ -14,12 +14,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanvir1909r" alt="tanvir1909r" /></a> </p>
 <br/>
 
-## 📊 My GitHub State
-
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanvir1909r&show_icons=true&locale=en" alt="tanvir1909r" /></p>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanvir1909r&show_icons=true&locale=en&layout=compact" alt="tanvir1909r" /></p>
-<br/>
-
 ## 💻 Languages and Tools:
 <p align="left">
   <a href="https://skillicons.dev">
@@ -27,6 +21,12 @@
   </a>
 </p>
 
+<br/>
+
+## 📊 My GitHub State
+
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanvir1909r&show_icons=true&locale=en" alt="tanvir1909r" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanvir1909r&show_icons=true&locale=en&layout=compact" alt="tanvir1909r" /></p>
 <br/>
 
 ## Connect with me:
