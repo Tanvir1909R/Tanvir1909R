@@ -1,8 +1,7 @@
 <img width="2000px" heigth="600px" alt="coading" src="https://i.ibb.co/yPmtncw/banner.png">
 <h1 align="center">Hi 👋, I'm Tanvir</h1>
 <h3 align="center">MERN stack web developer</h3>
-<p align="center">My name is Tanvir. 
-I'm a web developer with more than 2 years of experience. Design and web developments are my passion and profession. I love clean and simple designs. Feel free to contact me with any questions. For 5 months I have been learning nodeJs, express, and MongoDB. Every day I learn something new. I am an expert with HTML, CSS, SCSS, Tailwindcss, Bootstrap, Javascript, and React.</p>
+<p align="center">I'm a web developer with more than 2 years of experience.I love clean and simple designs.My aim is to build practical applications that will be 100% successful.I love coding. I consider myself a quick learner, and a responsible person.I always want to provide high-quality service.</p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanvir1909r" alt="tanvir1909r" /></a> </p>
 
 - 🌱 I’m currently learning **Nodejs**
