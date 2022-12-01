@@ -24,9 +24,9 @@
 <br/>
 
 ## 💻 Languages and Tools:
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,react,nodejs,express,mongodb,git" />
   </a>
 </p>
 
