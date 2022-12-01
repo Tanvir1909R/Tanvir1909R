@@ -18,10 +18,9 @@
 
 ## 📊 My GitHub State
 
-<div>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanvir1909r&show_icons=true&locale=en" alt="tanvir1909r" /></p>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanvir1909r&show_icons=true&locale=en&layout=compact" alt="tanvir1909r" /></p>
-</div>
+  
 <br/>
 <br/>
 
