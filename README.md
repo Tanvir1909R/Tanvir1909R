@@ -20,11 +20,15 @@
 
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanvir1909r&show_icons=true&locale=en" alt="tanvir1909r" /></p>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanvir1909r&show_icons=true&locale=en&layout=compact" alt="tanvir1909r" /></p>
-  
 <br/>
 <br/>
 
 ## 💻 Languages and Tools:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 
 <h3 align="left">Connect with me:</h3>
