@@ -1,6 +1,6 @@
 <img width="2000px" heigth="600px" alt="coading" src="https://i.ibb.co/yPmtncw/banner.png">
 <h1 align="center">Hi 👋, I'm Tanvir</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<p align="center">A passionate frontend developer from Bangladesh</p>
 <img align="center" width="400" alt="coading" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 </br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanvir1909r" alt="tanvir1909r" /></a> </p>
