@@ -1,14 +1,14 @@
-<img width="2000px" heigth="600px" alt="coading" src="https://i.ibb.co/yPmtncw/banner.png">
+<img width="100%" heigth="100%" alt="coading" src="https://i.ibb.co/yPmtncw/banner.png">
 <h1 align="center">Hi 👋, I'm Tanvir</h1>
 <h3 align="center">MERN stack web developer</h3>
 <p align="center">I'm a web developer with more than 2 years of experience.I love clean and simple designs.My aim is to build practical applications that will be 100% successful.I love coding. I consider myself a quick learner, and a responsible person.I always want to provide high-quality service.</p>
-
+<div align="left">
 - 🌱 I’m currently learning **Nodejs**
 - 💬 Ask me about **react, javascript**
 - 📫 How to reach me **trcr719@gmail.com**
 - ⚡ Fun fact: I can work straight 12 hours everyday if its about coding
-
-<img alt="gif" src="https://i.ibb.co/hVB5vXt/code.gif">
+</div>
+<img align="rigth" width="200px" alt="gif" src="https://i.ibb.co/hVB5vXt/code.gif">
 <br/>
 
 ## 🏆 GitHub Trophies
