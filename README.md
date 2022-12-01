@@ -2,13 +2,12 @@
 <h1 align="center">Hi 👋, I'm Tanvir</h1>
 <h3 align="center">MERN stack web developer</h3>
 <p align="center">I'm a web developer with more than 2 years of experience.I love clean and simple designs.My aim is to build practical applications that will be 100% successful.I love coding. I consider myself a quick learner, and a responsible person.I always want to provide high-quality service.</p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanvir1909r" alt="tanvir1909r" /></a> </p>
 
 - 🌱 I’m currently learning **Nodejs**
-
 - 💬 Ask me about **react, javascript**
-
 - 📫 How to reach me **trcr719@gmail.com**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanvir1909r" alt="tanvir1909r" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
