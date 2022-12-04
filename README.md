@@ -14,7 +14,7 @@
 ## 💻 Technology and Tools:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,react,nodejs,express,mongodb,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,react,nodejs,express,mongodb,firebase,git,github,netlify,vscode" />
   </a>
 </p>
 
