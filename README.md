@@ -11,17 +11,16 @@
 
 <br/>
 
-## 🏆 GitHub Trophies
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanvir1909r" alt="tanvir1909r" /></a> </p>
-<br/>
-
-## 💻 Languages and Tools:
+## 💻 Technology and Tools:
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,react,nodejs,express,mongodb,git" />
   </a>
 </p>
+
+## 🏆 GitHub Trophies
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanvir1909r" alt="tanvir1909r" /></a> </p>
 
 <br/>
 
